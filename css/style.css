@@ -1,0 +1,22 @@
+* {
+	box-sizing: border-box;
+  }
+
+body{
+
+	font-family: "Lucida Console", "Courier New", monospace;
+	background-color: palegoldenrod;
+}
+
+
+.row{
+	width:100%;
+}
+.category{
+	float: right;
+	background-color: saddlebrown;	
+	font-style: oblique;
+	color: wheat;
+}
+
+div{clear: both}
